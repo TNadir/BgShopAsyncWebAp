@@ -1,0 +1,11 @@
+D:\Projects\TestProjects\BgShop\BgShop.Domen\bin\Debug\netcoreapp2.0\BgShop.Domen.deps.json
+D:\Projects\TestProjects\BgShop\BgShop.Domen\bin\Debug\netcoreapp2.0\BgShop.Domen.runtimeconfig.json
+D:\Projects\TestProjects\BgShop\BgShop.Domen\bin\Debug\netcoreapp2.0\BgShop.Domen.runtimeconfig.dev.json
+D:\Projects\TestProjects\BgShop\BgShop.Domen\bin\Debug\netcoreapp2.0\BgShop.Domen.dll
+D:\Projects\TestProjects\BgShop\BgShop.Domen\bin\Debug\netcoreapp2.0\BgShop.Domen.pdb
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.csprojAssemblyReference.cache
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.csproj.CoreCompileInputs.cache
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.AssemblyInfoInputs.cache
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.AssemblyInfo.cs
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.dll
+D:\Projects\TestProjects\BgShop\BgShop.Domen\obj\Debug\netcoreapp2.0\BgShop.Domen.pdb
